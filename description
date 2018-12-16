@@ -1,0 +1,7 @@
+El plugin "articulos_rapidos" agrega un botón en el <i>modal_artículos</i> del <i>>TPV Genérico (tpv_recambios)</i> que permite crear un artículo sobre la marcha. Implementación con AJAX para una mejor experiencia.
+<br/>
+<b>Requiere plugin de "facturacion_base".</b>
+<br/>
+Plugin desarrollado por SrCifu (<a href="https://github.com/SrCifu" target="__blank">https://github.com/SrCifu</a>)
+<br/>
+Licencia LGPL 3	
